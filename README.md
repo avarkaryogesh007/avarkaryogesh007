@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yogesh Avarkar
-- 👀 I’m interested in data science and algorithms
-- 🌱 I’m currently learning pyhton3, data structure and ML
+- 👀 I’m interested in Cyber Security
 - 📫 my Email add. [avarkaryogesh007@gmail.com]
 
 <!---
